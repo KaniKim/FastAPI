@@ -4,7 +4,7 @@ for practicing FastAPI,  with me, others are join this project
 <br>
 <br>
 
-# 2022.02.19 Study
+# Study 4
 
 <br>
 
@@ -26,7 +26,7 @@ First make a .env file in this folder.
 <br>
 
 ```
-cd 2022.02.19
+cd study4
 touch .env
 ```
 
@@ -161,7 +161,7 @@ alembic upgrade head
 
 <br>
 
-![](2022.02.19//images/1.png)
+![](study4//images/1.png)
 
 <br>
 

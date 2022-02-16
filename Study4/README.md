@@ -23,7 +23,7 @@ First make a .env file in this folder.
 <br>
 
 ```
-cd 2022.02.19
+cd study4
 touch .env
 ```
 
