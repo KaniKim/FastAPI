@@ -26,7 +26,7 @@ First make a .env file in this folder.
 <br>
 
 ```
-cd study4
+cd Study4
 touch .env
 ```
 
@@ -161,7 +161,7 @@ alembic upgrade head
 
 <br>
 
-![](study4//images/1.png)
+![](Study4//images/1.png)
 
 <br>
 

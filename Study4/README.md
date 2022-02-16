@@ -23,7 +23,7 @@ First make a .env file in this folder.
 <br>
 
 ```
-cd study4
+cd Study4
 touch .env
 ```
 
