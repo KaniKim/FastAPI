@@ -10,7 +10,6 @@ class User(BaseModel):
     id: int
     message: Optional[str] = None
     creation_date: datetime.datetime
-    is_valid: bool
 
 
 @app.get("/")
