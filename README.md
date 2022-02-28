@@ -301,15 +301,8 @@ load_dotenv(os.path.join(BASE_DIR, ".env"))
 sys.path.append(BASE_DIR)
 
 config = context.config
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 config.set_main_option("sqlalchemy.url", os.environ["DB_URL"])
-=======
-config.set_main_option("sqlalchemy.url", os.environ["POSTGRES_HOST"])
->>>>>>> 30d735e (add fast api)
-=======
-config.set_main_option("sqlalchemy.url", os.environ["DB_URL"])
->>>>>>> 1b20bef (delete)
 
 fileConfig(config.config_file_name)
 
